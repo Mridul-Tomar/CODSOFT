@@ -1,6 +1,6 @@
 import java.lang.Thread;
 import java.util.*;
-public class test{
+public class Task1{
     public static void main(String[] args) {
         int score = 0;
         Scanner sc= new Scanner(System.in);
